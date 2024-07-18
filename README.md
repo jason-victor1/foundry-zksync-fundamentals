@@ -72,7 +72,7 @@ era_test_node fork mainnet
   history -c
   ```
 
-# Compiling Foundry Zksync - Redo
+# Compiling Foundry Zksync 
 
 ## Compiling and Deploying Contracts with Foundry-Zksync
 
